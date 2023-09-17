@@ -1,2 +1,2 @@
 # Sr
-#a free editing platform
+#a  editing platform for geeks 
